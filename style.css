@@ -35,3 +35,27 @@
     display: flex;
     gap: 10px;
 }
+
+
+
+.banner{
+    background-image: linear-gradient(rgba(20, 15, 12, 0.65)), url('./images/banner.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+/* .banner .box{
+    width: 30%;
+    margin: 0 auto;
+} */
+
+.banner h1{
+    padding-bottom: 6px;
+}
