@@ -29,6 +29,7 @@ body{
     background-color: #FF6B35;
     border: none;
     padding: 5px 12px;
+    cursor: pointer;
 }
 .menu a{
     text-decoration: none;
