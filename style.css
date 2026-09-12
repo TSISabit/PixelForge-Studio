@@ -135,3 +135,12 @@ footer div p{
     display: flex;
     flex-direction: column;
 }
+
+
+#popupBox{
+    background-color: #FF6B35;
+    text-align: center;
+    color: white;
+    padding: 12px 0px;
+    display: none;
+}
