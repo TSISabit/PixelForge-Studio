@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1A1A2E;
+    padding: 15px 30px;
+    color: white;
+}
+
+.navbar .logo{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.navbar .logo .forge{
+    color: #FF6B35;
+}
+
+.navbar button{
+    color: white;
+    background-color: #FF6B35;
+    border: none;
+    padding: 5px 12px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    /* padding-right: 10px; */
+}
+
+.menu {
+    display: flex;
+    gap: 10px;
+}
