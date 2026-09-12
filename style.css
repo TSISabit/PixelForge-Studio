@@ -91,9 +91,10 @@ body{
 .card img{
     width: 100%;
     height: 250px;
+    border-radius: 12px 12px;
 }
 
-.card h1, .card p, .card button{
+.card h1, .card p, .card button{ 
     margin: 12px 0px 12px 12px; 
 }
 
