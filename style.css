@@ -104,3 +104,34 @@ body{
     border: none;
     padding: 6px 12px;
 }
+
+
+
+
+footer{
+    background-color: #1A1A2E;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0px;
+}
+
+.footer-head{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 12px;
+}
+
+footer div a{
+    text-decoration: none;
+    color: #CCCCCC;
+}
+
+footer div p{
+    /* text-decoration: none; */
+    color: #CCCCCC;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
